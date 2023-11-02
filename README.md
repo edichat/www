@@ -1,7 +1,11 @@
 # [www.edichat.com](http://www.edichat.com)
 
-+ [www.edi.chat](http://www.edi.chat)
++ [edi.chat](http://www.edi.chat)
 
+
+chat wykorzystujący sycnhronizację z API róznych usług w celu zarządzania obiektami znajdującymi się w nich jak:
++ parkingomat
++ dynapsys
 
 ---
 
