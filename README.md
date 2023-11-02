@@ -1,5 +1,6 @@
-# www.edichat.com
+# [www.edichat.com](http://www.edichat.com)
 
++ [www.edi.chat](http://www.edi.chat)
 
 
 ---
